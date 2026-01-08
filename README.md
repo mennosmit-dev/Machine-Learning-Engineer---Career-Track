@@ -1,6 +1,6 @@
 # Machine Learning Engineer Career Track (DataCamp)
 
-Welcome to my **Machine Learning Engineer Career Track** repository — a structured collection of coursework, exercises, and (future) projects from the **DataCamp Machine Learning Engineer Career Track** curriculum. :contentReference[oaicite:3]{index=3}
+Welcome to my **Machine Learning Engineer Career Track** repository — a structured collection of what I learned from the **DataCamp Machine Learning Engineer Career Track** curriculum. 
 
 ---
 
