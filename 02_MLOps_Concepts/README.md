@@ -14,7 +14,7 @@ This folder contains my notes and artifacts from the **MLOps Concepts** course i
 This course contributes directly to building **production-ready machine learning systems**, emphasizing reproducibility, automation, and operational reliability.
 
 ## Status
-⬜ Not Started
+✅ Completed
 
 ## Notes
 This README will be updated with summaries, code, and insights as I progress.
