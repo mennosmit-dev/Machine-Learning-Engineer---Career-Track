@@ -12,7 +12,7 @@ This DataCamp Career Track is designed to teach you the skills required to becom
 - Data pipeline development and monitoring  
 - Python-based tools (scikit-learn, Docker, MLflow, DVC, CI/CD)
 
-It prepares you for entry level roles by showing how to take ML models from notebooks into production systems. :contentReference[oaicite:4]{index=4}
+It prepares you for entry level roles by showing how to take ML models from notebooks into production systems. 
 
 ---
 
