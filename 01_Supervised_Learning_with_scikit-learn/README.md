@@ -1,21 +1,14 @@
 # Supervised Learning with scikit-learn
 
-## Overview
-This folder contains my notes and artifacts from the **Supervised Learning with scikit-learn** course in the DataCamp Machine Learning Engineer Career Track.
+## Professional Focus
+Build, evaluate, and tune supervised machine learning models using industry-standard tooling.
 
-## Skills & Concepts Covered
-- Classification
--  regression
--  pipelines
--  cross-validation
--  metrics
--  hyperparameter tuning
+## What This Enables Me To Do
+- Train classification and regression models with scikit-learn
+- Select evaluation metrics aligned with business goals
+- Apply cross-validation to estimate real-world performance
+- Prevent data leakage using preprocessing pipelines
+- Tune models systematically via hyperparameter search
 
-## Why This Matters for ML Engineering
-This course contributes directly to building **production-ready machine learning systems**, emphasizing reproducibility, automation, and operational reliability.
-
-## Status
-✅ Completed
-
-## Notes
-This README will be updated with summaries, code, and insights as I progress.
+## ML Engineering Relevance
+This course establishes the core modeling foundation required before deployment, versioning, and monitoring.

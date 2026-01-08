@@ -1,18 +1,14 @@
 # Predictive Modeling for Agriculture
 
-## Overview
-This folder contains my notes and artifacts from the **Predictive Modeling for Agriculture** course in the DataCamp Machine Learning Engineer Career Track.
+## Professional Focus
+Apply supervised learning techniques to a realistic domain problem using real-world data.
 
-## Skills & Concepts Covered
-- End-to-end supervised ML project
--  feature engineering
--  evaluation
+## What This Enables Me To Do
+- Translate a business/domain problem into a predictive task
+- Engineer features from raw tabular data
+- Train and compare multiple supervised models
+- Evaluate models using appropriate metrics
+- Communicate results in a clear, portfolio-ready format
 
-## Why This Matters for ML Engineering
-This course contributes directly to building **production-ready machine learning systems**, emphasizing reproducibility, automation, and operational reliability.
-
-## Status
-⬜ Not Started
-
-## Notes
-This README will be updated with summaries, code, and insights as I progress.
+## ML Engineering Relevance
+Demonstrates end-to-end application of modeling skills beyond isolated exercises.

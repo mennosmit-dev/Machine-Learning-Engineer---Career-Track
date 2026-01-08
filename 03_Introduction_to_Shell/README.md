@@ -1,19 +1,14 @@
 # Introduction to Shell
 
-## Overview
-This folder contains my notes and artifacts from the **Introduction to Shell** course in the DataCamp Machine Learning Engineer Career Track.
+## Professional Focus
+Develop command-line fluency to automate workflows and operate effectively in production environments.
 
-## Skills & Concepts Covered
-- CLI navigation
--  bash scripting
--  pipes
--  automation
+## What This Enables Me To Do
+- Navigate and manage files efficiently via the CLI
+- Chain commands using pipes to process data
+- Filter and summarize text-based datasets
+- Automate repetitive tasks with shell scripts
+- Work productively in Linux-based ML environments
 
-## Why This Matters for ML Engineering
-This course contributes directly to building **production-ready machine learning systems**, emphasizing reproducibility, automation, and operational reliability.
-
-## Status
-⏳ In Progress
-
-## Notes
-This README will be updated with summaries, code, and insights as I progress.
+## ML Engineering Relevance
+Shell skills are essential for deployment, CI/CD, data operations, and debugging production ML systems.

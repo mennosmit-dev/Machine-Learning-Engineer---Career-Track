@@ -1,17 +1,14 @@
 # Predicting Temperature in London
 
-## Overview
-This folder contains my notes and artifacts from the **Predicting Temperature in London** course in the DataCamp Machine Learning Engineer Career Track.
+## Professional Focus
+Build a reproducible regression workflow for time-dependent weather data.
 
-## Skills & Concepts Covered
-- Time-series regression
--  MLflow experiments
+## What This Enables Me To Do
+- Engineer features for temporal regression problems
+- Train and compare multiple models
+- Track experiments using MLflow
+- Evaluate models under realistic assumptions
+- Deliver a clean, reproducible ML project
 
-## Why This Matters for ML Engineering
-This course contributes directly to building **production-ready machine learning systems**, emphasizing reproducibility, automation, and operational reliability.
-
-## Status
-⬜ Not Started
-
-## Notes
-This README will be updated with summaries, code, and insights as I progress.
+## ML Engineering Relevance
+Combines modeling, tooling, and reproducibility in a realistic applied scenario.

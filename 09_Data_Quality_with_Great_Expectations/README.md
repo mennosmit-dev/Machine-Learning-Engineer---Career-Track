@@ -1,18 +1,14 @@
 # Data Quality with Great Expectations
 
-## Overview
-This folder contains my notes and artifacts from the **Data Quality with Great Expectations** course in the DataCamp Machine Learning Engineer Career Track.
+## Professional Focus
+Introduce automated data quality validation into data and ML pipelines.
 
-## Skills & Concepts Covered
-- Data validation
--  expectation suites
--  pipeline quality
+## What This Enables Me To Do
+- Define data quality rules as code
+- Validate datasets before training or inference
+- Detect schema changes and invalid values
+- Integrate quality checks into pipelines
+- Improve trust in ML outputs
 
-## Why This Matters for ML Engineering
-This course contributes directly to building **production-ready machine learning systems**, emphasizing reproducibility, automation, and operational reliability.
-
-## Status
-⬜ Not Started
-
-## Notes
-This README will be updated with summaries, code, and insights as I progress.
+## ML Engineering Relevance
+Data quality failures are one of the most common causes of ML system breakdowns.

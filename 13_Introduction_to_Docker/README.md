@@ -1,18 +1,14 @@
 # Introduction to Docker
 
-## Overview
-This folder contains my notes and artifacts from the **Introduction to Docker** course in the DataCamp Machine Learning Engineer Career Track.
+## Professional Focus
+Package ML applications into reproducible, portable containers.
 
-## Skills & Concepts Covered
-- Containers
--  Dockerfiles
--  reproducible environments
+## What This Enables Me To Do
+- Understand containers vs virtual machines
+- Write Dockerfiles for ML workloads
+- Build and run Docker images
+- Ensure dev/prod environment parity
+- Deploy ML services reliably
 
-## Why This Matters for ML Engineering
-This course contributes directly to building **production-ready machine learning systems**, emphasizing reproducibility, automation, and operational reliability.
-
-## Status
-⬜ Not Started
-
-## Notes
-This README will be updated with summaries, code, and insights as I progress.
+## ML Engineering Relevance
+Docker is foundational for deployment, scaling, and CI/CD in ML systems.

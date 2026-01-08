@@ -1,18 +1,14 @@
 # Introduction to MLflow
 
-## Overview
-This folder contains my notes and artifacts from the **Introduction to MLflow** course in the DataCamp Machine Learning Engineer Career Track.
+## Professional Focus
+Introduce structured experiment tracking and model management into ML workflows.
 
-## Skills & Concepts Covered
-- Experiment tracking
--  model registry
--  reproducibility
+## What This Enables Me To Do
+- Log parameters, metrics, and artifacts consistently
+- Compare experiments reproducibly
+- Package models for downstream usage
+- Understand model registry concepts
+- Improve collaboration and traceability
 
-## Why This Matters for ML Engineering
-This course contributes directly to building **production-ready machine learning systems**, emphasizing reproducibility, automation, and operational reliability.
-
-## Status
-⬜ Not Started
-
-## Notes
-This README will be updated with summaries, code, and insights as I progress.
+## ML Engineering Relevance
+MLflow enables reproducible experimentation and professional ML collaboration.

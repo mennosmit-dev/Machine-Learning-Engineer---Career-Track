@@ -1,18 +1,14 @@
 # CI/CD for Machine Learning
 
-## Overview
-This folder contains my notes and artifacts from the **CI/CD for Machine Learning** course in the DataCamp Machine Learning Engineer Career Track.
+## Professional Focus
+Automate ML delivery using CI/CD principles and tooling.
 
-## Skills & Concepts Covered
-- Automation
--  GitHub Actions
--  ML pipelines
+## What This Enables Me To Do
+- Build CI/CD workflows for ML projects
+- Automate testing and validation
+- Integrate data and model checks
+- Reduce deployment risk
+- Scale ML delivery practices
 
-## Why This Matters for ML Engineering
-This course contributes directly to building **production-ready machine learning systems**, emphasizing reproducibility, automation, and operational reliability.
-
-## Status
-⬜ Not Started
-
-## Notes
-This README will be updated with summaries, code, and insights as I progress.
+## ML Engineering Relevance
+CI/CD enables safe, repeatable, and professional ML system delivery.

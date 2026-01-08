@@ -1,18 +1,14 @@
 # Monitoring Machine Learning Concepts
 
-## Overview
-This folder contains my notes and artifacts from the **Monitoring Machine Learning Concepts** course in the DataCamp Machine Learning Engineer Career Track.
+## Professional Focus
+Understand what to monitor once ML models are deployed to production.
 
-## Skills & Concepts Covered
-- Drift
--  decay
--  monitoring strategies
+## What This Enables Me To Do
+- Distinguish data drift from concept drift
+- Detect performance degradation
+- Define meaningful monitoring metrics
+- Design alerting strategies
+- Connect monitoring signals to business impact
 
-## Why This Matters for ML Engineering
-This course contributes directly to building **production-ready machine learning systems**, emphasizing reproducibility, automation, and operational reliability.
-
-## Status
-⬜ Not Started
-
-## Notes
-This README will be updated with summaries, code, and insights as I progress.
+## ML Engineering Relevance
+Monitoring ensures deployed models remain reliable and valuable over time.

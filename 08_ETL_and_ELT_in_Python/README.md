@@ -1,18 +1,14 @@
 # ETL and ELT in Python
 
-## Overview
-This folder contains my notes and artifacts from the **ETL and ELT in Python** course in the DataCamp Machine Learning Engineer Career Track.
+## Professional Focus
+Design and implement reliable data pipelines using Python.
 
-## Skills & Concepts Covered
-- Data pipelines
--  ETL vs ELT
--  production data workflows
+## What This Enables Me To Do
+- Choose between ETL and ELT architectures
+- Extract data from common data sources
+- Transform data using reusable Python code
+- Load processed data for analytics or ML
+- Build pipelines with logging and error handling
 
-## Why This Matters for ML Engineering
-This course contributes directly to building **production-ready machine learning systems**, emphasizing reproducibility, automation, and operational reliability.
-
-## Status
-⬜ Not Started
-
-## Notes
-This README will be updated with summaries, code, and insights as I progress.
+## ML Engineering Relevance
+Reliable data pipelines are foundational to all production ML systems.

@@ -1,18 +1,14 @@
 # Data Versioning with DVC
 
-## Overview
-This folder contains my notes and artifacts from the **Data Versioning with DVC** course in the DataCamp Machine Learning Engineer Career Track.
+## Professional Focus
+Version datasets and ML pipelines alongside code for full reproducibility.
 
-## Skills & Concepts Covered
-- Dataset versioning
--  reproducibility
--  pipelines
+## What This Enables Me To Do
+- Version large datasets efficiently
+- Track data and model lineage
+- Reproduce past experiments exactly
+- Build DVC pipelines for ML workflows
+- Collaborate on data-heavy projects
 
-## Why This Matters for ML Engineering
-This course contributes directly to building **production-ready machine learning systems**, emphasizing reproducibility, automation, and operational reliability.
-
-## Status
-⬜ Not Started
-
-## Notes
-This README will be updated with summaries, code, and insights as I progress.
+## ML Engineering Relevance
+Reproducibility and traceability are non-negotiable in professional ML systems.
