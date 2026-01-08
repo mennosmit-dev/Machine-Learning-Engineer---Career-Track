@@ -63,13 +63,6 @@ Here are some of the main skills I’m gaining:
 
 ---
 
-## 📌 Next Steps
-
-I’ll be adding **projects, notes, and example code** inside each course folder as I go through the track.  
-Stay tuned! 🚀
-
----
-
 ## 📜 License
 
 This repository is licensed under the MIT License.
