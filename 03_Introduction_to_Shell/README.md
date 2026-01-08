@@ -13,7 +13,7 @@ This folder contains my notes and artifacts from the **Introduction to Shell** c
 This course contributes directly to building **production-ready machine learning systems**, emphasizing reproducibility, automation, and operational reliability.
 
 ## Status
-⬜ Not Started
+⏳ In Progress
 
 ## Notes
 This README will be updated with summaries, code, and insights as I progress.
