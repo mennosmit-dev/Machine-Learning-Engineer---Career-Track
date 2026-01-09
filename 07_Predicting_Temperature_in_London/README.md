@@ -1,3 +1,6 @@
+**Track:** https://www.datacamp.com/tracks/machine-learning-engineer
+**Official DataCamp link:** https://www.datacamp.com/projects/predicting_temperature_in_london
+
 # Predicting Temperature in London
 
 ## Professional Focus

@@ -1,3 +1,6 @@
+**Track:** https://www.datacamp.com/tracks/machine-learning-engineer
+**Official DataCamp link:** https://www.datacamp.com/courses/monitoring-machine-learning-in-python
+
 # Monitoring Machine Learning in Python
 
 ## Professional Focus

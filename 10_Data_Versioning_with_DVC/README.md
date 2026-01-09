@@ -1,3 +1,6 @@
+**Track:** https://www.datacamp.com/tracks/machine-learning-engineer
+**Official DataCamp link:** https://www.datacamp.com/courses/introduction-to-data-versioning-with-dvc
+
 # Data Versioning with DVC
 
 ## Professional Focus

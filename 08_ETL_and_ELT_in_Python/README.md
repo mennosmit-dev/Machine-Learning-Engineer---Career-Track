@@ -1,3 +1,6 @@
+**Track:** https://www.datacamp.com/tracks/machine-learning-engineer
+**Official DataCamp link:** https://www.datacamp.com/courses/etl-and-elt-in-python
+
 # ETL and ELT in Python
 
 ## Professional Focus

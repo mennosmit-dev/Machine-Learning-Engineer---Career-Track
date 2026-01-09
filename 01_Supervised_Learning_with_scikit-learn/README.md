@@ -1,3 +1,6 @@
+**Track:** https://www.datacamp.com/tracks/machine-learning-engineer
+**Official DataCamp link:** https://www.datacamp.com/courses/supervised-learning-with-scikit-learn
+
 # Supervised Learning with scikit-learn
 
 ## Professional Focus

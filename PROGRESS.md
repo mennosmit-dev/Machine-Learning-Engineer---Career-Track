@@ -4,7 +4,7 @@
 |---|--------|--------|
 | 01 | Supervised Learning with scikit-learn | ✅ Completed |
 | 02 | MLOps Concepts | ✅ Completed |
-| 03 | Introduction to Shell | ⏳ In Progress |
+| 03 | Introduction to Shell | ✅ Completed |
 | 04 | Predictive Modeling for Agriculture | ⬜ Not Started |
 | 05 | MLOps Deployment and Lifecycle | ⬜ Not Started |
 | 06 | Introduction to MLflow | ⬜ Not Started |
