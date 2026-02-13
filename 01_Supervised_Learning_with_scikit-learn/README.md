@@ -1,17 +1,40 @@
-**Track:** https://www.datacamp.com/tracks/machine-learning-engineer
-**Official DataCamp link:** https://www.datacamp.com/courses/supervised-learning-with-scikit-learn
-
 # Supervised Learning with scikit-learn
 
-## Professional Focus
-Build, evaluate, and tune supervised machine learning models using industry-standard tooling.
+Applied supervised learning workflows built using scikit-learn, focusing on
+model development, evaluation, and reproducible experimentation.
 
-## What This Enables Me To Do
-- Train classification and regression models with scikit-learn
-- Select evaluation metrics aligned with business goals
-- Apply cross-validation to estimate real-world performance
-- Prevent data leakage using preprocessing pipelines
-- Tune models systematically via hyperparameter search
+Track:
+https://www.datacamp.com/tracks/machine-learning-engineer  
+Course:
+https://www.datacamp.com/courses/supervised-learning-with-scikit-learn
 
-## ML Engineering Relevance
-This course establishes the core modeling foundation required before deployment, versioning, and monitoring.
+---
+
+## 🧠 Professional Focus
+
+Development of production-oriented supervised ML pipelines, including:
+
+- classification and regression modeling
+- preprocessing pipelines to prevent data leakage
+- systematic model evaluation
+- cross-validation for realistic performance estimation
+- hyperparameter tuning and model selection
+
+---
+
+## ⚙️ Skills Demonstrated
+
+- Training and evaluating ML models with scikit-learn
+- Selecting metrics aligned with practical objectives
+- Building end-to-end pipelines using `Pipeline` and `GridSearchCV`
+- Structuring experiments for reproducibility
+
+---
+
+## 🔧 ML Engineering Context
+
+This work forms the modeling foundation that connects to later projects in:
+
+- MLOps deployment and lifecycle management
+- experiment tracking and monitoring
+- reinforcement learning and quantitative modeling
