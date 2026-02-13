@@ -7,7 +7,7 @@
 - [x] 05 MLOps Deployment and Lifecycle 
 - [x] 06 Introduction to MLflow 
 - [x] 07 Predicting Temperature in London 
-- [ ] 08 ETL and ELT in Python 
+- [x] 08 ETL and ELT in Python 
 - [ ] 09 Data Quality with Great Expectations 
 - [ ] 10 Data Versioning with DVC 
 - [ ] 11 Monitoring Machine Learning Concepts 
