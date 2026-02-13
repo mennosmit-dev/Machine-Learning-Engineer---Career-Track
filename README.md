@@ -1,74 +1,69 @@
-# Machine Learning Engineer Career Track (DataCamp) 
-**Track:** https://www.datacamp.com/tracks/machine-learning-engineer
+# Machine Learning Engineer – MLOps & Deployment Projects
 
-Welcome to my **Machine Learning Engineer Career Track** repository — a structured collection of what I learned from the **DataCamp Machine Learning Engineer Career Track** curriculum. 
+Repository containing applied projects and experiments developed while 
+completing the DataCamp Machine Learning Engineer Career Track.
 
----
+The focus of this repository is not coursework itself, but the practical
+implementation of production-oriented machine learning workflows, including:
 
-## 🎯 About This Track
+- experiment tracking
+- deployment pipelines
+- data validation
+- monitoring
+- reproducible ML systems
 
-This DataCamp Career Track is designed to teach you the skills required to become a **Machine Learning Engineer**, with a strong focus on:
-- Machine Learning fundamentals and workflows  
-- MLOps concepts and real-world model deployment  
-- Data pipeline development and monitoring  
-- Python-based tools (scikit-learn, Docker, MLflow, DVC, CI/CD)
-
-It prepares you for entry level roles by showing how to take ML models from notebooks into production systems. 
-
----
-
-## 📊 Learning Progress
-
-### Course Progress
-
-| #  | Course | Status |
-|---:|--------|--------|
-| 01 | Supervised Learning with scikit-learn | ✅ Completed |
-| 02 | MLOps Concepts | ✅ Completed |
-| 03 | Introduction to Shell | ✅ Completed |
-| 04 | Predictive Modeling for Agriculture | ✅ Completed |
-| 05 | MLOps Deployment and Lifecycle | ⏳ In Progress |
-| 06 | Introduction to MLflow | ⬜ Not Started |
-| 07 | Predicting Temperature in London | ⬜ Not Started |
-| 08 | ETL and ELT in Python | ⬜ Not Started |
-| 09 | Data Quality with Great Expectations | ⬜ Not Started |
-| 10 | Data Versioning with DVC | ⬜ Not Started |
-| 11 | Monitoring Machine Learning Concepts | ⬜ Not Started |
-| 12 | Monitoring Machine Learning in Python | ⬜ Not Started |
-| 13 | Introduction to Docker | ⬜ Not Started |
-| 14 | CI/CD for Machine Learning | ⬜ Not Started |
-
-Legend:
-- ⬜ Not Started
-- ⏳ In Progress
-- ✅ Completed
+Track reference:
+https://www.datacamp.com/tracks/machine-learning-engineer
 
 ---
 
-## 🧠 What I’m Learning
+## 🧠 Focus Areas
 
-Here are some of the main skills I’m gaining:
+This repository emphasizes **production-ready ML engineering**:
 
-🔹 Train, evaluate & deploy predictive models  
-🔹 Understand modern MLOps frameworks and lifecycle  
-🔹 Build scalable ETL/ELT pipelines  
-🔹 Track experiments & manage models with MLflow  
-🔹 Use Docker for containerized ML workflows  
-🔹 Automate testing and deployment with CI/CD  
-🔹 Monitor models in production for drift & performance
-
----
-
-## 🛠 Technologies Used
-
-- **Python** (numpy, pandas, scikit-learn)  
-- **MLflow, DVC, Great Expectations**  
-- **Docker & Shell scripting**  
-- **CI/CD (GitHub Actions)**  
-- **Data processing & monitoring tools**
+- Model lifecycle management
+- Experiment tracking with MLflow
+- Data versioning with DVC
+- ETL / ELT pipeline design
+- Monitoring & data quality validation
+- Containerized workflows with Docker
+- CI/CD for machine learning systems
 
 ---
 
-## 📜 License
+## ⚙️ Technologies
 
-This repository is licensed under the MIT License.
+Python • scikit-learn • MLflow • DVC  
+Great Expectations • Docker • Shell  
+GitHub Actions • Data Pipelines
+
+---
+
+## 📂 Repository Structure
+
+Projects are organized around key ML engineering themes:
+
+- Supervised modeling workflows
+- Deployment and lifecycle management
+- Data pipeline engineering
+- Monitoring and reproducibility
+
+Each project includes:
+
+- reproducible training pipelines
+- evaluation and tracking
+- structured code organization
+
+---
+
+## 📌 Context
+
+This work complements my broader projects in:
+
+- reinforcement learning systems
+- quantitative finance modeling
+- LLM engineering and RAG pipelines
+- econometric forecasting
+
+Together they form the engineering layer required to move models from
+research into production environments.
