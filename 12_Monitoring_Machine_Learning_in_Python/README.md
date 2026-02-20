@@ -1,17 +1,46 @@
-**Track:** https://www.datacamp.com/tracks/machine-learning-engineer
-**Official DataCamp link:** https://www.datacamp.com/courses/monitoring-machine-learning-in-python
-
 # Monitoring Machine Learning in Python
 
-## Professional Focus
-Implement monitoring workflows programmatically using Python.
+**Track:** https://www.datacamp.com/tracks/machine-learning-engineer  
+**Official Course:** https://www.datacamp.com/courses/monitoring-machine-learning-in-python
 
-## What This Enables Me To Do
-- Build monitoring pipelines in Python
-- Detect drift using statistical techniques
-- Diagnose model failures
-- Estimate performance without labels
-- Trigger corrective actions
+---
 
-## ML Engineering Relevance
-Transforms monitoring theory into operational practice.
+## 🎯 Engineering Objective
+
+Implement practical monitoring workflows using Python to operationalize
+model observability and maintain reliability in deployed machine learning systems.
+
+This repository focuses on translating monitoring concepts into automated,
+code-driven workflows.
+
+---
+
+## 🧠 Core Capabilities Developed
+
+- Building monitoring pipelines programmatically in Python
+- Detecting data and prediction drift using statistical techniques
+- Diagnosing model performance degradation
+- Estimating performance when labels are unavailable
+- Triggering corrective or retraining actions
+
+---
+
+## ⚙️ Implementation Approach
+
+Monitoring workflows emphasize:
+
+- automated metric computation and tracking
+- statistical validation of incoming data
+- continuous evaluation of model behavior
+- integration with reproducible ML pipelines
+
+---
+
+## 🔗 Role in ML Engineering Progression
+
+Represents the implementation layer of model monitoring, connecting:
+
+- deployment and lifecycle management
+- data quality validation
+- experiment tracking and versioning
+- continuous improvement of production ML systems
