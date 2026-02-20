@@ -10,7 +10,7 @@
 Apply supervised machine learning techniques to a realistic domain problem,
 translating agricultural data into actionable predictive insights.
 
-The project focuses on structuring an end-to-end modeling workflow — from
+The project focuses on structuring an end-to-end modeling workflow, from
 problem formulation and feature engineering to evaluation and interpretation.
 
 ---
