@@ -1,17 +1,45 @@
-**Track:** https://www.datacamp.com/tracks/machine-learning-engineer
-**Official DataCamp link:** https://www.datacamp.com/courses/introduction-to-shell
-
 # Introduction to Shell
 
-## Professional Focus
-Develop command-line fluency to automate workflows and operate effectively in production environments.
+**Track:** https://www.datacamp.com/tracks/machine-learning-engineer  
+**Official Course:** https://www.datacamp.com/courses/introduction-to-shell
 
-## What This Enables Me To Do
-- Navigate and manage files efficiently via the CLI
-- Chain commands using pipes to process data
-- Filter and summarize text-based datasets
-- Automate repetitive tasks with shell scripts
-- Work productively in Linux-based ML environments
+---
 
-## ML Engineering Relevance
-Shell skills are essential for deployment, CI/CD, data operations, and debugging production ML systems.
+## 🎯 Engineering Objective
+
+Develop command-line proficiency to efficiently operate, automate, and debug
+machine learning workflows in Linux-based and cloud environments.
+
+The command line forms a core part of practical ML engineering, enabling
+reproducible workflows and scalable system operations.
+
+---
+
+## 🧠 Core Skills Developed
+
+- Navigating and managing files via the CLI
+- Processing data using pipes and command chaining
+- Filtering and summarizing text-based datasets
+- Automating repetitive workflows with shell scripting
+- Working effectively in Linux-based ML environments
+
+---
+
+## ⚙️ Practical Applications
+
+Shell tooling enables:
+- automation of training and data workflows
+- environment setup and dependency management
+- interaction with remote servers and cloud infrastructure
+- faster debugging and system inspection
+
+---
+
+## 🔗 Role in ML Engineering Progression
+
+This repository represents foundational infrastructure skills supporting:
+
+- MLOps and deployment pipelines
+- CI/CD automation
+- containerized workflows (Docker)
+- production machine learning systems
