@@ -1,7 +1,8 @@
 # Supervised Learning with scikit-learn
 
-Applied supervised learning workflows built using scikit-learn, focusing on
-model development, evaluation, and reproducible experimentation.
+Applied supervised learning workflows implemented using scikit-learn,
+focusing on structured model development, evaluation, and reproducible
+machine learning experimentation.
 
 Track:
 https://www.datacamp.com/tracks/machine-learning-engineer  
@@ -10,31 +11,46 @@ https://www.datacamp.com/courses/supervised-learning-with-scikit-learn
 
 ---
 
-## 🧠 Professional Focus
+## 🎯 Engineering Objective
 
-Development of production-oriented supervised ML pipelines, including:
+This repository focuses on building reliable supervised learning workflows
+that reflect real-world modeling practices rather than isolated experiments.
 
-- classification and regression modeling
-- preprocessing pipelines to prevent data leakage
-- systematic model evaluation
-- cross-validation for realistic performance estimation
-- hyperparameter tuning and model selection
-
----
-
-## ⚙️ Skills Demonstrated
-
-- Training and evaluating ML models with scikit-learn
-- Selecting metrics aligned with practical objectives
-- Building end-to-end pipelines using `Pipeline` and `GridSearchCV`
-- Structuring experiments for reproducibility
+Key goals include:
+- developing robust classification and regression models
+- preventing data leakage through structured preprocessing
+- establishing reproducible evaluation workflows
+- selecting models based on realistic performance estimates
 
 ---
 
-## 🔧 ML Engineering Context
+## 🧠 Core Concepts Demonstrated
 
-This work forms the modeling foundation that connects to later projects in:
+- Classification and regression modeling
+- Feature preprocessing and transformation pipelines
+- Cross-validation and model comparison
+- Hyperparameter optimization using `GridSearchCV`
+- Metric selection aligned with practical objectives
+
+---
+
+## ⚙️ Implementation Approach
+
+Work is structured around reproducible experimentation:
+
+- end-to-end scikit-learn `Pipeline` workflows
+- separation of preprocessing and modeling stages
+- consistent evaluation procedures
+- modular and reusable code organization
+
+---
+
+## 🔗 Role in ML Engineering Stack
+
+This repository represents the **modeling foundation** within a broader
+machine learning engineering progression, connecting to:
 
 - MLOps deployment and lifecycle management
 - experiment tracking and monitoring
-- reinforcement learning and quantitative modeling
+- reinforcement learning systems
+- quantitative and time-series modeling
