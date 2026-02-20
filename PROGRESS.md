@@ -8,7 +8,7 @@
 - [x] 06 Introduction to MLflow 
 - [x] 07 Predicting Temperature in London 
 - [x] 08 ETL and ELT in Python 
-- [ ] 09 Data Quality with Great Expectations 
+- [x] 09 Data Quality with Great Expectations 
 - [ ] 10 Data Versioning with DVC 
 - [ ] 11 Monitoring Machine Learning Concepts 
 - [ ] 12 Monitoring Machine Learning in Python 
