@@ -9,8 +9,8 @@
 - [x] 07 Predicting Temperature in London 
 - [x] 08 ETL and ELT in Python 
 - [x] 09 Data Quality with Great Expectations 
-- [ ] 10 Data Versioning with DVC 
-- [ ] 11 Monitoring Machine Learning Concepts 
-- [ ] 12 Monitoring Machine Learning in Python 
-- [ ] 13 Introduction to Docker 
+- [x] 10 Data Versioning with DVC 
+- [x] 11 Monitoring Machine Learning Concepts 
+- [x] 12 Monitoring Machine Learning in Python 
+- [x] 13 Introduction to Docker 
 
